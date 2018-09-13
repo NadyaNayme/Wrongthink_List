@@ -1,0 +1,52 @@
+# your code should include everybody and the
+# best way to do that is to avoid excluding
+# anybody.
+
+[contributors]
+contributors = [
+  "nadya"
+]
+
+[exclusives]
+words = [
+  "boyfriend",
+  "boys",
+  "chairman",
+  "crazy",
+  "dumb",
+  "fathering",
+  "foreman",
+  "girlfriend",
+  "girls",
+  "grandfathered",
+  "grandfathering",
+  "guys",
+  "hacker",
+  "he",
+  "her",
+  "herself",
+  "himself",
+  "his",
+  "husband",
+  "insane",
+  "it's easy",
+  "it's simple",
+  "lame",
+  "man hours",
+  "man",
+  "manpower",
+  "mom test",
+  "mothering",
+  "ninja",
+  "normal",
+  "rockstar",
+  "she",
+  "so easy",
+  "stupid",
+  "wife",
+  "woman"
+]
+
+# remember to use inclusive terminology
+# put people first
+# avoid idioms and acronyms
