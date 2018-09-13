@@ -12,7 +12,7 @@
 
 # words may be included in several categories. some words
 # that should be in multiple catories may not be listed.
-# this is considered an error, feel free to submit a 
+# this is considered an error, feel free to submit a
 # pull request to add it to other relevant categories.
 
 title = "wrongthink list"
@@ -323,7 +323,7 @@ words = [
   "bitchy",
   "black buck",
   "blonde",
-  "bossy',
+  "bossy",
   "bro",
   "bubbly",
   "catty",
@@ -541,8 +541,7 @@ words = [
 # people for implying the usage of an offensive word.
 [euphemism]
 words = [
-  "thug",
-  
+  "thug"
 ]
 
 # words that could potentionally cause someone with pstd, real
