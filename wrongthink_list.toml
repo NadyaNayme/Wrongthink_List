@@ -447,6 +447,7 @@ words = [
 # offend homosexual people. this is for the lg in lgbt.
 [homophobic]
 words = [
+  "bummer",
   "batty boy",
   "butch",
   "carpet muncher",
@@ -470,6 +471,8 @@ words = [
 # offend bisexual people. this is for the b in lgbt.
 [biphobic]
 words = [
+  "ac/dc",
+  "ambidextrous"
 ]
 
 # words that are used as slurs against transexuals or could
