@@ -356,6 +356,8 @@ words = [
   "lippy",
   "loose",
   "man-hater",
+  "man-hours",
+  "mankind",
   "mannish",
   "mansplain",
   "manspread",
@@ -407,13 +409,17 @@ words = [
 words = [
   "autistic",
   "blind",
+  "blind eye",
+  "crazy",
   "cripple",
+  "cripples",
   "daft",
   "deformed",
   "differently abled",
   "dim",
   "downie",
   "dumb",
+  "dummy",
   "epileptic",
   "feeble-minded",
   "fit",
@@ -444,6 +450,7 @@ words = [
   "physically challenged",
   "psycho",
   "retard",
+  "sanity-check",
   "schizo",
   "special",
   "suffering from",
@@ -991,4 +998,10 @@ words = [
   "master",
   "slave",
   "first-class citizen"
+]
+
+# words that are graphically violent or harmful
+[violent]
+words = [
+  "STONITH"
 ]
