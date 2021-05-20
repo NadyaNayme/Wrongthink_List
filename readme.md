@@ -1,7 +1,5 @@
 # wrongthink_list
-if your project uses any words in this list you are a bad person and should feel bad 
-
-baddie
+if your project uses any words in this list you are a bad person and should feel bad, baddie
 
 
 ## additional things to avoid
