@@ -578,7 +578,7 @@ words = [
 ]
 
 # words that could potentionally cause someone with pstd, real
-# or otherwise, harm
+# or otherwise, harm or are graphically violent
 [triggers]
 words = [
   "abort",
@@ -589,6 +589,7 @@ words = [
   "kill",
   "rape",
   "smash",
+  "STONITH",
   "suicide",
   "terminate",
   "trigger"
@@ -998,10 +999,4 @@ words = [
   "master",
   "slave",
   "first-class citizen"
-]
-
-# words that are graphically violent or harmful
-[violent]
-words = [
-  "STONITH"
 ]
