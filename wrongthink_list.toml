@@ -1,19 +1,19 @@
 # this list is for project maintainers who update terminology
 # because someone claimed to be offended or claimed that the
-# terminology could be seen as offensive to a group of people.
+# terminology could be seen as offensive to a group of people
 #
 # if you feel a category has been missed or a word is missing
 # from the list - feel free to submit a pull request and add
-# yourself to the contributors array.
+# yourself to the contributors array
 #
 # for those unfamiliar, the format of this document is in
-# tom's obvious markup language.
+# tom's obvious markup language
 # github.com/toml-lang/toml/blob/master/tests/example.toml
 
 # words may be included in several categories. some words
 # that should be in multiple catories may not be listed.
 # this is considered an error, feel free to submit a
-# pull request to add it to other relevant categories.
+# pull request to add it to other relevant categories
 
 title = "wrongthink list"
 
@@ -309,10 +309,12 @@ words = [
 
 # words offensive to male, female, non-binary, gender-fluid
 # gender-queer, bigender, intergender, novigender, and
-# other range of genders. it encompasses the term "sexist"
-# in its entirity and hopes to be fully inclusive, even of
+# other range of genders 
+#
+# it encompasses the term "sexist" in its entirity 
+# and hopes to be fully inclusive, even of
 # non-binary genders. it also includes terms that can be
-# mysognistic or misandric.
+# mysognistic or misandric
 [gender]
 words = [
   "aggressive",
@@ -400,7 +402,7 @@ words = [
   "years young"
 ]
 
-# words that are used against the functionally diverse.
+# words that are used against the functionally diverse
 [ablist]
 words = [
   "autistic",
@@ -455,7 +457,7 @@ words = [
 ]
 
 # words that are used as slurs against heterosexuals or could
-# offend heterosexual people.
+# offend heterosexual people
 [heterophobic]
 words = [
   "cis",
@@ -463,7 +465,7 @@ words = [
 ]
 
 # words that are used as slurs against homosexuals or could
-# offend homosexual people. this is for the lg in lgbt.
+# offend homosexual people. this is for the lg in lgbt
 [homophobic]
 words = [
   "bummer",
@@ -487,7 +489,7 @@ words = [
 ]
 
 # words that are used as slurs against bisexuals or could
-# offend bisexual people. this is for the b in lgbt.
+# offend bisexual people. this is for the b in lgbt
 [biphobic]
 words = [
   "ac/dc",
@@ -497,9 +499,9 @@ words = [
 ]
 
 # words that are used as slurs against transexuals or could
-# offend transexual people. this is for the t in lgbt. it
+# offend transexual people this is for the t in lgbt. it
 # will also include slurs against gender dysphorics who
-# may not consider themselves transexuals.
+# may not consider themselves transexuals
 [transphobic]
 words = [
   "tranny",
@@ -508,7 +510,7 @@ words = [
 ]
 
 # words that are against a group of religious people or
-# that are religious and may offend agnostiscs or atheists.
+# that are religious and may offend agnostiscs or atheists
 [religious]
 words = [
   "abe",
@@ -562,14 +564,14 @@ words = [
 ]
 
 # words used in place of offensive words but may still offend
-# people for implying the usage of an offensive word.
+# people for implying the usage of an offensive word
 [euphemism]
 words = [
   "thug"
 ]
 
 # words that could potentionally cause someone with pstd, real
-# or otherwise, harm.
+# or otherwise, harm
 [triggers]
 words = [
   "abort",
@@ -983,7 +985,7 @@ words = [
 ]
 
 # words that could potentially offend someone for historical
-# uses of the words.
+# uses of the words
 [historical]
 words = [
   "master",
