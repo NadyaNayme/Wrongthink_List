@@ -183,6 +183,7 @@ words = [
   "moskal",
   "mulignan",
   "mzungu",
+  "native",
   "nawar",
   "nere",
   "niakoué",
@@ -389,6 +390,16 @@ words = [
   "zhyd"
 ]
 
+# words that are used against older adults
+[agist]
+words = [
+  "the elderly",
+  "the aged",
+  "seniors",
+  "senior citizens",
+  "years young"
+]
+
 # words that are used against the functionally diverse.
 [ablist]
 words = [
@@ -408,7 +419,9 @@ words = [
   "fucktard",
   "gimp",
   "handicapped",
+  "handi-capable",
   "hare lip",
+  "healthy",
   "hysterical",
   "idiot",
   "imbecile",
@@ -423,14 +436,20 @@ words = [
   "midget",
   "moron",
   "mute",
+  "normal",
   "nutter",
   "patient",
+  "physically challenged",
   "psycho",
   "retard",
   "schizo",
+  "special",
+  "suffering from",
   "tard",
   "two wheels",
   "vegetable",
+  "victim of",
+  "wheelchair-bound",
   "window licker",
   "yuppie flu"
 ]
@@ -968,5 +987,6 @@ words = [
 [historical]
 words = [
   "master",
-  "slave"
+  "slave",
+  "first-class citizen"
 ]
